@@ -10,15 +10,15 @@ Kullanıcılar farklı odalara katılabilir ve anlık mesajlaşabilirler.
 - Odaya özel sohbet geçmişi
 
 
-### Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 
-# Frontend
+### Frontend
 - React.js
 - Tailwind CSS
 - Socket.IO-Client
 
-# Backend
+### Backend
 - Node.js
 - Express.js
 - Socket.IO
